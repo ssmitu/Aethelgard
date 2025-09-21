@@ -216,6 +216,33 @@ ________________________________________
 Here are some screenshots showcasing the Aethelgard project:
 
 #### Live Homepage
+## 10. Screenshots
+
+Here are some screenshots showcasing the Aethelgard project:
+
+#### Screenshot 1
+
+![Screenshot 1](photo_2025-09-21_09-15-14.jpg)
+
+*A screenshot of [Describe what this screenshot shows]*
+
+#### Screenshot 2
+
+![Screenshot 2](photo_2025-09-21_09-15-31.jpg)
+
+*A screenshot of [Describe what this screenshot shows]*
+
+#### Screenshot 3
+
+![Screenshot 3](photo_2025-09-21_09-15-36.jpg)
+
+*A screenshot of [Describe what this screenshot shows]*
+
+#### Screenshot 4
+
+![Screenshot 4](photo_2025-09-21_09-15-41.jpg)
+
+*A screenshot of [Describe what this screenshot shows]*
 
 [![Aethelgard Live Homepage](https://i.imgur.com/XYZ123.png)](https://aethelgard-ten.vercel.app/)
 _The main landing page of the Aethelgard application._
@@ -241,4 +268,5 @@ ________________________________________
 •	Content coverage: While extensive, the historical content is continuously being expanded and might not cover every specific niche topic.
 •	Recommendation engine: The recommendation engine is currently based on browsing history and can be further enhanced with more sophisticated algorithms for deeper personalization.
 ```
+
 
