@@ -211,18 +211,29 @@ Sumona Islam Zerin:
 Rehnuma Tarannum Ramisha:
 ![alt text](https://wakatime.com/badge/user/867df651-7e86-4c3e-9056-757055655484/project/9926df57-4d8a-408c-af99-42dc0bf8e4ec.svg)
 ________________________________________
-10. Screenshots
+### 10. Screenshots
 
-Live Homepage
+Here are some screenshots showcasing the Aethelgard project:
 
+#### Live Homepage
 
-Railway Deployment (Aethelgard Service)
+[![Aethelgard Live Homepage](https://i.imgur.com/XYZ123.png)](https://aethelgard-ten.vercel.app/)
+_The main landing page of the Aethelgard application._
 
+#### Railway Deployment (Aethelgard Service)
 
-Vercel Deployments (Frontend)
+[![Railway Deployment](https://i.imgur.com/ABC456.png)](https://railway.app/)
+_Deployment status of the backend services on Railway._
 
+#### Vercel Deployments (Frontend)
 
-404 Error Page Example (If an invalid route is accessed)
+[![Vercel Deployments](https://i.imgur.com/DEF789.png)](https://vercel.com/)
+_Frontend deployment details on Vercel._
+
+#### 404 Error Page Example
+
+[![404 Error Page](https://i.imgur.com/GHI012.png)](https://aethelgard-ten.vercel.app/404)
+_An example of the 404 error page._
 
 ________________________________________
 11. Limitations / Known Issues
@@ -230,3 +241,4 @@ ________________________________________
 •	Content coverage: While extensive, the historical content is continuously being expanded and might not cover every specific niche topic.
 •	Recommendation engine: The recommendation engine is currently based on browsing history and can be further enhanced with more sophisticated algorithms for deeper personalization.
 ```
+
